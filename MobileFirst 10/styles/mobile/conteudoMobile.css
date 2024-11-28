@@ -1,0 +1,83 @@
+@import url(./style.css);
+
+.versaoMobile .conteudoMobile {
+    margin: 10px 0;
+}
+
+/* Estilizando social proof */
+
+.versaoMobile .conteudoMobile .social{
+    margin: 15px 0px;
+    height: 40vh;
+    width: 100%;
+    font-size: 16px;
+}
+
+.versaoMobile .conteudoMobile .socialLista{
+    display: flex;
+    justify-content: center;
+    margin: 0px 5px;
+}
+
+.versaoMobile .conteudoMobile .socialLista .listaItem{
+    width: 70%;
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    /* padding: 10px; */
+}
+
+.versaoMobile .conteudoMobile .socialLista .listaItem .infoItem{
+    width: 100%; 
+    height: 12vh;
+}
+.versaoMobile .conteudoMobile .socialLista .listaItem .infoItem p{
+    font-size: 14px;
+}
+
+.versaoMobile .conteudoMobile .socialLista .listaItem .infoItem a{
+    text-transform: uppercase;
+}
+
+.versaoMobile .conteudoMobile .socialLista .listaItem .imagemItem{
+    font-weight: 800;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.versaoMobile .conteudoMobile .socialLista .listaItem .imagemItem img{
+    width: 70px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+}
+
+/* estlizando Parceiros */
+
+.versaoMobile .conteudoMobile .produtos{
+    background-color: var(--azul-escuro);
+    padding: 40px;
+    font-size: 16px;
+    color: var(--texto);
+}
+
+.versaoMobile .conteudoMobile .produtos .acesseParceiros h1{
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.versaoMobile .conteudoMobile .produtos .acesseParceiros article{
+    letter-spacing: 5.5;
+    margin-bottom: 50px;
+}
+
+.versaoMobile .conteudoMobile .produtos .acesseParceiros a{
+    text-decoration: none;
+    background-color: var(--texto);
+    color: #000;
+    text-transform: uppercase;
+    padding: 5px 20px;
+}

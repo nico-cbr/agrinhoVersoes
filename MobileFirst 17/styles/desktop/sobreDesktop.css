@@ -1,0 +1,70 @@
+@import url(./style.css);
+
+.versaoDesktop .sobreDesktop{
+    margin-left: 220px;
+    transition: 0.3s ease-in-out;
+}
+
+.versaoDesktop .sobreDesktop .conteudo {
+    margin: 100px 60px 30px 20px;
+    display: flex;
+    align-items: center;
+
+}
+
+#check:checked ~.sobreDesktop{
+    margin-left: 60px;        
+}
+
+.versaoDesktop .sobreDesktop .conteudo p{
+    margin: 20px 0 0 30px;
+}
+
+.versaoDesktop .sobreDesktop .conteudo .texto{
+   min-width: 350px;
+   font-size: 18px;
+}
+
+.versaoDesktop .sobreDesktop .conteudo .texto h1{
+    font-size: 3.5rem;
+    margin: 0px 0px 0px 25px;
+    color: var(--azul-escuro);
+}
+.versaoDesktop .sobreDesktop .conteudo .texto h2{
+    font-size: 1.5rem;
+    margin: -10px 0px 0px 25px;
+}
+
+.versaoDesktop .sobreDesktop .conteudo img{
+    height: 350px;
+    border-radius: 15px;
+    margin-left: 50px ;
+}
+
+@media (max-width: 1024px) {
+    .versaoDesktop .sobreDesktop .conteudo{
+    flex-direction: column;
+    margin: 50px 30px 15px 10px;
+    }
+
+    .versaoDesktop .sobreDesktop .conteudo .texto h1{
+        font-size: 2.9rem;
+        margin: 50px 0px 0px 25px;
+        color: var(--azul-escuro);
+        text-align: center;
+    }
+
+    .versaoDesktop .sobreDesktop .conteudo .texto h2{
+        font-size: 1.5rem;
+        margin: -10px 0px 0px 25px;
+        text-align: center;
+    }
+
+    .versaoDesktop .sobreDesktop .conteudo p{
+        font-size: 20px;
+    }
+
+    .versaoDesktop .sobreDesktop .conteudo img{
+        margin-top: 40px;
+    }
+}

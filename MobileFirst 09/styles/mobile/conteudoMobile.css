@@ -1,0 +1,47 @@
+@import url(./style.css);
+
+/* .versaoMobile .conteudoMobile {
+
+} */
+
+.versaoMobile .conteudoMobile .parceiros{
+    margin: 0px 5px;
+    height: 10vh;
+    width: 100%;
+}
+
+.versaoMobile .conteudoMobile .parcecirosLista{
+    display: flex;
+    justify-content: center;
+}
+
+.versaoMobile .conteudoMobile .parcecirosLista .listaItem{
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 25px;
+}
+
+.versaoMobile .conteudoMobile .parcecirosLista .listaItem .infoItem p{
+    width: 80%;
+    text-align: center;
+    font-size: 14px;
+}
+
+.versaoMobile .conteudoMobile .parcecirosLista .listaItem .infoItem{
+}
+
+.versaoMobile .conteudoMobile .parcecirosLista .listaItem .imagemItem{
+    font-weight: 800;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.versaoMobile .conteudoMobile .parcecirosLista .listaItem .imagemItem img{
+    width: 80px;
+    border-radius: 50%;
+    margin-bottom: 5px;
+}

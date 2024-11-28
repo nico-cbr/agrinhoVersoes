@@ -1,0 +1,3 @@
+<a href="https://br.freepik.com/fotos-gratis/jovem-jardineiro-vestindo-macacao-e-chapeu-em-luvas-de-trabalho-segurando-uma-caixa-cheia-de-vegetais-olhando-para-a-frente-sorrindo-feliz-e-positiva-em-pe-sobre-a-parede-rosa_12432477.htm#fromView=search&page=8&position=48&uuid=207fd0ca-0dbb-4a87-b7a9-4d38ac56d265">Imagem de stockking no Freepik</a>
+paleta de cores: https://colorhunt.co/palette/07195208839537b7c3ebf4f6
+Icones: https://www.flaticon.com/ 

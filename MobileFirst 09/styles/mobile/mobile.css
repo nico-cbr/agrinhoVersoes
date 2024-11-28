@@ -1,0 +1,38 @@
+@import url(./style.css);
+
+.versaoDesktop{
+    display: none;
+}
+
+.versaoMobile{
+    height: 100vh;  
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 50px 1fr 1fr 1fr;
+    grid-template-areas: 
+    "nav"
+    "heroSection"
+    "conteudo"
+    "footer"
+    ;
+}
+
+.versaoMobile .navMobile{
+    grid-area: nav;
+    border: 1px solid red;
+}
+
+.versaoMobile .heroSectionMobile{
+    grid-area: heroSection;
+    border: 1px solid red;
+}
+
+.versaoMobile .conteudoMobile{
+    grid-area: conteudo;
+    border: 1px solid green;
+}
+
+.versaoMobile .footerMobile{
+    grid-area: footer;
+    border: 1px solid red;
+}

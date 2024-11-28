@@ -1,0 +1,47 @@
+@import url(./style.css);
+
+.versaoDesktop .heroSectionDesktop{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 220px;
+    transition: 0.3s ease-in-out;
+}
+
+.versaoDesktop .heroSectionDesktop .destaque{
+    margin: 50px;
+    font-size: 20px;
+}
+
+.versaoDesktop .heroSectionDesktop .destaque span{
+    color: var(--azul-claro);
+}
+
+.versaoDesktop .heroSectionDesktop .destaque h3{
+    margin-top: 5px;
+    margin-bottom: 20px;
+    color: #a5a5a5;
+}
+
+.versaoDesktop .heroSectionDesktop .destaque p{
+    font-size:smaller;
+    margin-bottom: 30px;
+}
+
+.versaoDesktop .heroSectionDesktop .destaque h5{
+    width: 30%;
+    text-align: center;
+    border: 1px solid var(--azul-claro);
+    padding: 10px;
+    border-radius: 10px;
+    color: #fff;
+    background: var(--azul-claro);
+}   
+
+.versaoDesktop .heroSectionDesktop .imagemDestaque img{
+    width: 400px;
+    object-fit: fill;
+}
+
+#check:checked ~.heroSectionDesktop{
+    margin-left: 60px;        
+}    

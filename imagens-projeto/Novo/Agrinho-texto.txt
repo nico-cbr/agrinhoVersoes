@@ -1,0 +1,30 @@
+"Essa aplicação na versão de celular é muito fácil de utilizar é bem intuitivo, além de ter várias funções em que preciso na palma da minha mão a qualquer momento"
+Ana-Julia
+
+"De fato uma aplicação essencial para pessoas do campo que muitas vezes não conhecem muitos serviços devido a falta de comunicação entre cidade e campo."
+Nicoly
+
+"De fato, um exemplo concreto de uma possível solução que se faz necessário ao agronegócio local. Disponibilizar, serviços, produtos e anúncios centralizados em um aplicativo específico representa uma oportunidade única para pequenos produtores  anunciar, comercializar e disponibilizar serviços de forma rápida e prática. Aproximando produtores e consumidores finais."
+Professor demetrio
+===========================
+---
+
+Ana-Julia:
+
+"Essa aplicação, na versão de celular, é muito fácil de utilizar, além de ser bem intuitiva. O design é agradável, e a interface permite que eu acesse todas as funcionalidades de maneira rápida e eficiente. Ter todas essas funções na palma da minha mão, disponíveis a qualquer momento, me dá a flexibilidade necessária para gerenciar conforme minhas necessidades diárias de forma prática e conveniente, sem complicações."
+
+---
+
+Nicoly:
+
+"De fato, esta aplicação é essencial para pessoas do campo, principalmente para aquelas que enfrentam desafios devido à falta de comunicação entre a cidade e o campo. Com esta ferramenta, os serviços antes inacessíveis agora estão disponíveis de forma simplificada e direta. Além disso, o aplicativo permite que os produtores rurais se conectem e conheça comerciantes da cidade, facilitando o acesso a recursos e serviços que são cruciais para o desenvolvimento da vida no campo."
+
+---
+
+=============================
+About:
+Este projelo foi desenvolvido durante as aulas de Programação e Desenvolvimento de Sistemas, a ideia é ser uma aplicação Web que centraliza vários serviços sendo fornecido de ambas as partes para gerar um desenvolvimento de ambas as partes. 
+Comércio e Campo conectado. O projeto foi inscrito no concurso Agrinho 2024.
+
+Link do linkdin: https://www.linkedin.com/in/tau%C3%A3-felipe-75431b254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+Link githhub: https://github.com/felipetaua
